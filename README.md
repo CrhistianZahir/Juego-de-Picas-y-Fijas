@@ -15,9 +15,9 @@ de enteros (un dígito en cada elemento del vector).</p>
 <p>El número generado NO puede tener dígitos repetidos.</p>
 <p>Preguntar al jugador el número de n dígitos imprimiendo uno a uno y
 finalizando con ‘#’.</p>
-<p>Validar el dato ingresado (verificar que son n d´ıgitos y que no hayan d´ıgitos
-repetidos). Si el dato es correcto, mostrar frente al n´umero ingresado,
-cuantas picas y cuantas fijas tiene. Si el dato no es v´alido, mostrar durante
+<p>Validar el dato ingresado (verificar que son n dígitos y que no hayan dígitos
+repetidos). Si el dato es correcto, mostrar frente al número ingresado,
+cuantas picas y cuantas fijas tiene. Si el dato no es válido, mostrar durante
 4 segundos un mensaje de error y volver a la pantalla anterior.</p>
 <p>Llevar cuenta y mostrar el número de intentos.</p>
 <p>Almacenar el resultado de hasta 20 intentos anteriores (número y cantidad

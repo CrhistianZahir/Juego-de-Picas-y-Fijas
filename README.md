@@ -1,7 +1,7 @@
 # Juego de Picas y Fijas
 <h2>Descripción</h2>
 <p>
-  Diseño de juego “Picas & Fijas” en un microcontrolador PIC16F877 o PIC16F887 con una pantalla LCD de doble línea y un teclado matricial, el código es desarrollado en el lenguaje C++.
+  Diseño de juego “Picas & Fijas” en un microcontrolador PIC16F877 o PIC16F887 con una pantalla LCD de doble línea y un teclado matricial, el código es desarrollado en el lenguaje C.
 </p>
 <h2>Características</h2>
 <p>Debe mostrarse una animación cíclica como mensaje de bienvenida.</p>
